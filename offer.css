@@ -1,0 +1,309 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter&family=Sen:wght@700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:black; 
+    color: white;
+    height: 82px;
+}
+#home{
+    font-family: Inter;
+    font-size: 20px;
+}
+#company{
+    font-family: Inter;
+    font-size: 20px;
+    
+}
+#Resources{
+    font-family: Inter;
+    font-size: 20px;
+}
+.button{
+    width:180px;
+    height:56px
+}
+
+.shak{
+    width: 236px;
+    height: 47px;
+     margin-top: 10px;
+}
+.nav-link{
+    font-family: sen; font-size: 20px;
+    font-weight: 500; line-height: 32px; 
+    color: white;
+}
+.dropdown-item{
+    background-color:rebeccapurple;
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: sen;
+}
+.explain{
+    background-image: url(./media/images/AdobeStock_383184697\ 1.png);
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+    height:726px;
+}
+.offer{
+    font-family: sen;
+    font-size: 64px;
+    font-weight: 700;
+    padding-top: 480px;
+    padding-left: 100px;
+    color: white;
+}
+.two-lines{
+    width: 100%;
+}
+.defined{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+.foot{
+    width:1300px;
+    height: 288px;
+}
+.free{
+    font-size: 28px;
+    font-family: sen;
+    font-weight: 700;
+    padding-left: 200px;
+    padding-top: 20px;
+    background-color: #F8F5FA;
+    width: 1300px;
+    height:96px;
+}
+.environment{
+    padding-top: 20px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+
+}   
+.two{
+    width:1300px;
+    height: 288px;
+    margin-top: 150px;
+}
+.promote{
+    padding-top: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 200px;
+    background-color: #F8F5FA;
+    width: 1300px;
+    height:96px;
+}
+.objectives{
+    padding-top: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+.shake{
+    width:1300px;
+    margin-top: 150px;
+}
+.customer{
+    padding-top: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 200px;
+    background-color: #F8F5FA;
+    width: 1300px;
+    height:96px;
+}
+.clients{
+    padding-top: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+.laptop{
+    width:1300px;
+    margin-top: 150px;
+}
+.prices{
+    padding-top: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 200px;
+    background-color: #F8F5FA;
+    width: 1300px;
+    height:96px;
+}
+.primary{
+    padding-top: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+.fooot{
+    background-color: #232536;
+}
+.cons{
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+@media screen and  (max-width: 600px){
+    .navbar{
+        background-color:rgb(207, 49, 49); 
+        color: white;
+        height: 80px;
+        width:100%;
+        
+    }
+    /* #but{
+    
+            position: absolute;
+            left:250px;
+            color: rgb(182, 94, 44);
+            width:50px;
+        } */
+    
+     #home{
+        font-family: Inter;
+        font-size: 20px;
+        width:100%;
+    }
+    .logo{
+        width: 250px;
+        margin-left:-50px;
+        margin-top: 20px;
+
+    }
+    /* span{
+        margin-top: 0px;
+        margin-left: -20px;
+        width: 100px;
+    } */
+    .explain{
+        background-image: url(./media/images/AdobeStock_383184697\ 1.png);
+        background-repeat: no-repeat;
+        width:100%;
+        background-size: cover;
+        height:200px;
+    }
+    .two-lines{
+        width: 100%;
+    }
+    .offer{
+        font-family: sen;
+        font-size: 15px;
+        font-weight: 700;
+        padding-top: 100px;
+        padding-left: 10px;
+        color: white;;
+    }
+    .defined{
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0px;
+        text-align: justify;
+    }
+    .free{
+        font-size: 15px;
+        font-family: sen;
+        font-weight: 700;
+        padding-left: 100px;
+        padding-top: 20px;
+        background-color: #F8F5FA;
+        width: 100%;
+    
+    }
+    .foot{
+        width:100%;
+        height: 288px;
+    }
+    .environment{
+        padding-top: 20px;
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        text-align: justify;
+    
+    }  
+    .two{
+        width:100%;
+        height: 288px;
+        margin-top: 100px;
+    }
+    .promote{
+        padding-top: 20px;
+        font-size: 15px;
+        font-weight: 700;
+        padding-left: 100px;
+        background-color: #F8F5FA;
+        width: 100%;
+    }
+    .objectives{
+        padding-top: 0px;
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        text-align: justify;
+    }
+    .shake{
+        width:100%;
+        margin-top: 100px;
+    }
+    .customer{
+        padding-top: 20px;
+        font-size: 15px;
+        font-weight: 700;
+        padding-left: 90px;
+        background-color: #F8F5FA;
+        width: 100%;
+        
+    }
+    .clients{
+        padding-top: 0px;
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        text-align: justify;
+    }
+    .laptop{
+        width:100%;
+        margin-top: 100px;
+    }
+    .prices{
+        padding-top: 20px;
+        font-size: 15px;
+        font-weight: 700;
+        padding-left: 100px;
+        background-color: #F8F5FA;
+        width: 100%;
+    }
+    .primary{
+        padding-top: 0px;
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        text-align: justify;
+    }
+    .con{
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+}

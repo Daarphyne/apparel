@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Sen:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.histor{
+    font-family: sen; 
+    font-size: 64px; 
+    padding: 402px;
+     padding-left: 80px;
+}
+.navbar{
+    background-color:black; 
+    color: white;
+    height: 82px;
+}
+#home{
+    font-family: Inter;
+    font-size: 20px;
+}
+#company{
+    font-family: Inter;
+    font-size: 20px;
+    
+}
+#Resources{
+    font-family: Inter;
+    font-size: 20px;
+}
+.button{
+    width:180px;
+    height:56px
+}
+
+.shak{
+    width: 236px;
+    height: 47px;
+     margin-top: 10px;
+}
+.nav-link{
+    font-family: sen; 
+    font-size: 20px;
+    font-weight: 500;
+     line-height: 32px; 
+    color: white;
+}
+
+.team{
+    font-size:64px ;
+    font-family: sen;
+    font-weight: 700;
+    padding-top: 500px;
+    padding-left: 100px;
+    
+}
+.people{
+    background-image: url(./media/images/AdobeStock_76522411\ 1.png);
+    width: 100%;
+    height: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.two-lines{
+    width:100%;
+}
+.mission{
+    text-align: left;
+    font-size: 16px;
+    font-family: inter;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+.utilize{
+    text-align: left;
+    font-family: sen;
+    font-weight: 400;
+    letter-spacing: -1px;
+}
+.create{
+    font-family: inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+.pattern{
+    width:575px;
+    height: 25px;
+    margin-left: 50px;
+}
+.primary{
+    font-family: sen;
+    font-weight: 700;
+    font-size: 28px;
+    letter-spacing: -1px;
+}
+li{
+    font-size: 20px;
+    font-family: inter;
+    font-weight: 400;
+    text-align: justify;
+}
+.fooot{
+    background-color: #232536;
+}
+.cons{
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+@media screen and  (max-width: 600px){
+    .navbar{
+        background-color:rgb(207, 49, 49); 
+        color: white;
+        height: 80px;
+        width:100%;
+        
+    }
+    /* #but{
+    
+            position: absolute;
+            left:230px;
+            color: rgb(182, 94, 44);
+            width:50px;
+        }
+     */
+     #home{
+        font-family: Inter;
+        font-size: 20px;
+        width:100%;
+    }
+    .logo{
+        width: 250px;
+        margin-left:-50px;
+        margin-top: 20px;
+
+    }
+    /* span{
+        margin-top: 0px;
+        margin-left: -20px;
+        width: 100px;
+    } */
+    .dropdown-item{
+        background-color:rebeccapurple;
+        color: black;
+        font-size: 24px;
+        font-weight: 400;
+        font-family: sen;
+    }
+    .people{
+        background-image: url(./media/images/AdobeStock_76522411\ 1.png);
+        width: 100%;
+        height: 200px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .two-lines{
+        width:100%;
+    }
+    .team{
+        font-size:15px ;
+        font-family: sen;
+        font-weight: 700;
+        padding-top: 100px;
+        padding-left: 20px;
+        
+    }
+    .pattern{
+        width:130px;
+        height: 25px;
+        margin-left:15px
+    
+    }
+    .mission{
+        text-align: center;
+        font-size: 8px;
+        font-family: inter;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-left: -20px;
+        
+    }
+    .utilize{
+        text-align: left;
+        font-family: sen;
+        font-weight: 300;
+        letter-spacing: -1px;
+        font-size: 14px;
+        text-align: justify;
+        margin-left: -40px;
+    }
+    .create{
+        font-family: inter;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: justify;
+    }
+    .first-div{
+        margin-left: -20px;
+    }
+    .primary{
+        font-family: sen;
+        font-weight: 700;
+        font-size: 16px;
+        letter-spacing: px0;
+    }
+    li{
+        font-size: 16px;
+        font-family: inter;
+        font-weight: 400;
+        text-align: justify;
+    }
+    .con{
+        align-self: center;
+        margin-top: 30px;
+        margin-left: 30px;
+        
+    }
+    .email{
+        width:100%;
+    }
+}

@@ -1,0 +1,170 @@
+ @media screen and  (max-width: 600px){
+    .navbar{
+        background-color:rgb(207, 49, 49); 
+        color: white;
+        height: 80px;
+        width:100%;
+        
+    }
+     #but{
+    
+            position: absolute;
+            left:230px;
+            color: rgb(182, 94, 44);
+            width:50px;
+        }
+    }
+     #home{
+        font-family: Inter;
+        font-size: 20px;
+        width:100%;
+    }
+    .logo{
+        width: 250px;
+        margin-left:-50px;
+        margin-top: 20px;
+
+    }
+    span{
+        margin-top: 0px;
+        margin-left: 200px;
+    }
+    
+    #inno{
+        background-image: radial-gradient(30.56% 76.04% at 74.58% 0%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.6) 100%), url(./media/images/AdobeStock_132215125\ 3\ \(2\).png);
+      width:100%;
+        background-size:contain;
+        background-repeat: no-repeat;
+        height:300px;
+        margin-top: -2px;
+    }
+    .introducing{
+        font-family: sen;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: -2px;
+        position: absolute;
+         top:180px; left:50px;
+         
+        
+    }
+     .two-lines{
+        width:100%;
+        margin-top:-100px;
+    }
+    .firstgroup{
+       width:100%;
+       margin-left: 0px;
+       margin-right: 0px;
+    }
+    .micro{
+        margin-left: 0px;
+       margin-top: 50px;
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0px;
+        text-align: justify;
+        width:100%
+    
+    }
+    .shine{
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    .first-constant{
+        margin-left:0px;
+        margin-top: 50px;
+         font-family: Inter;
+         font-size: 15px;
+         font-weight: 400;
+         line-height: 30px;
+         letter-spacing: 0px;
+         text-align:justify;
+         width:100%
+    }
+    .division{
+        margin-left: 0px;
+        margin-right: 0px;
+        width:100%
+    }
+    .constant{
+        margin-left: 0px;
+        margin-top: 50px;
+         font-family: Inter;
+         font-size: 15px;
+         font-weight: 400;
+         line-height: 30px;
+         letter-spacing: 0px;
+         text-align: justify;
+    }
+    .fooot{
+        background-color: #232536;
+        height: 400px;
+        width:100%;
+    }
+    .card{ align-self: center;
+        margin-left: 75px;
+        margin-top: 10px;
+        height: 40px;
+        width: 250px;
+    }
+   
+    .email{
+        width: 120px;
+        height: 50px;
+        margin-top: -300px;
+        margin-left: 40px;
+    }
+    .con{
+        width:70px;
+        height:50px;
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .message{
+        font-family: sen;
+        font: size 10px;
+        text-align: center;
+        padding-top: 10px; 
+        padding-right: 10px;
+}
+.austin{
+    margin-top: 80px;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.sha{
+    margin-top: 18px;
+    text-align: center;
+    padding-left: 20px;
+}
+.media{
+    margin-left: 40px;
+} 
+#mail{
+    margin-top: -80px;
+    margin-left: 20px;
+}
+#cont{
+    margin-top: -40px;
+    margin-left: -20px;
+}
+.austin{
+    margin-top: 0px;
+    margin-left: 0px;
+    color: blue;
+    font-size: 10px;
+}
+
+.media{
+    margin-top: -70px;
+    width:100px;
+    
+}
+#social{
+    margin-left: 200px;
+}  
